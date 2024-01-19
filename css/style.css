@@ -1,0 +1,10 @@
+.menu .linkMenu{
+    justify-content: center;
+    display: inline-block;
+    text-decoration: none;
+    text-transform: uppercase;
+    margin: 20px 10px 0px;
+    color: darkblue;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
