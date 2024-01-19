@@ -23,4 +23,4 @@ O site tem como objetivo exercitar o conteúdo de HTML, CSS e JavaScript.
 1. Clone este repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-projeto.git
+   git clone https://github.com/helenpdr/front-end-senai)https://github.com/helenpdr/front-end-senai
